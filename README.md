@@ -1,4 +1,4 @@
-![Screenshot 2025-05-26 152521](https://github.com/user-attachments/assets/d6351e9c-7a4e-4c76-842b-261055962b54)# Splash Screen
+# Splash Screen
 ![Screenshot 2025-05-26 152556](https://github.com/user-attachments/assets/e1fdb749-8c81-4bdd-a965-c8667fceb374)
 
 # introduction Screen
